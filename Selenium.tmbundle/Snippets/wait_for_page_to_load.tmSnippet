@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.wait_for_page_to_load(${2:timeout})
+$0</string>
+	<key>name</key>
+	<string>wait_for_page_to_load</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>wfptl</string>
+	<key>uuid</key>
+	<string>6EB899A4-D8DB-4A59-82D7-56FB6D62743F</string>
+</dict>
+</plist>

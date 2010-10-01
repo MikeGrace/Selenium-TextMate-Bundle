@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.click_at(${2:locator}, ${3:coordString})
+$0</string>
+	<key>name</key>
+	<string>click_at</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>clk@</string>
+	<key>uuid</key>
+	<string>818F39A1-8AD8-467E-9B67-77240C1BD081</string>
+</dict>
+</plist>

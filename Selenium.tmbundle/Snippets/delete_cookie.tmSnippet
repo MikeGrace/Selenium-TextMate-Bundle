@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.delete_cookie(${2:name}, ${3:path})
+$0</string>
+	<key>name</key>
+	<string>delete_cookie</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>dc</string>
+	<key>uuid</key>
+	<string>AC096441-A2CE-4AE6-BAED-63A460D09DBF</string>
+</dict>
+</plist>

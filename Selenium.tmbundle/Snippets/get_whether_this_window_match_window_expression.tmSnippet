@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_whether_this_window_match_window_expression(${2:currentWindowString}, ${3:target})
+$0</string>
+	<key>name</key>
+	<string>get_whether_this_window_match_window_expression</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>wmwe</string>
+	<key>uuid</key>
+	<string>ECFA7083-D945-4F96-8D2A-C2FEE6CD55C3</string>
+</dict>
+</plist>

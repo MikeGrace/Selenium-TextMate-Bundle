@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.double_click(${2:locator})
+$0</string>
+	<key>name</key>
+	<string>double_click</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>dclk</string>
+	<key>uuid</key>
+	<string>D8BAE1C5-937C-4FF5-8AD6-5908F5E723A2</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.window_focus(${2:windowName})
+$0</string>
+	<key>name</key>
+	<string>window_focus</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>wf</string>
+	<key>uuid</key>
+	<string>3F978007-94A2-477E-A92B-BEB54A922504</string>
+</dict>
+</plist>

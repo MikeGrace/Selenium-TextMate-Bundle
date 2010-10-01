@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.answer_on_next_prompt(${2:answer})
+$0</string>
+	<key>name</key>
+	<string>answer_on_next_prompt</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>aonp</string>
+	<key>uuid</key>
+	<string>9A863A7B-29CE-4E7F-ADDE-E2CAC555CEDF</string>
+</dict>
+</plist>

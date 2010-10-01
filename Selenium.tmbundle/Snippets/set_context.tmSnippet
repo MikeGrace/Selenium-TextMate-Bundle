@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.set_context(${2:context}, ${3:logLevelThreshold})
+$0</string>
+	<key>name</key>
+	<string>set_context</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>sc</string>
+	<key>uuid</key>
+	<string>737EDD0F-4159-4CEF-9BC2-F1406D42D259</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.check_cancel_on_next_confirmation
+$0</string>
+	<key>name</key>
+	<string>check_cancel_on_next_confirmation</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>cconc</string>
+	<key>uuid</key>
+	<string>42C3327A-6B9C-460A-BA6A-40432C311349</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.set_speed(${2:value})
+$0</string>
+	<key>name</key>
+	<string>set_speed</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>ss</string>
+	<key>uuid</key>
+	<string>BD268EA6-CB98-46F8-A7E9-FF1A121BA7AC</string>
+</dict>
+</plist>

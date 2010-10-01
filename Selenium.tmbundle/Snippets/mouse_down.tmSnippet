@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.mouse_down(${2:locator})
+$0</string>
+	<key>name</key>
+	<string>mouse_down</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>md</string>
+	<key>uuid</key>
+	<string>FBA2FA66-4CF1-465A-A4E3-69FE344DA30E</string>
+</dict>
+</plist>

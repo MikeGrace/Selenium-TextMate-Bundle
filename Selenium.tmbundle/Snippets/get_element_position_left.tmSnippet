@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_element_position_left(${2:locator})
+$0</string>
+	<key>name</key>
+	<string>get_element_position_left</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>gepl</string>
+	<key>uuid</key>
+	<string>73E8E8E2-D666-492A-8EF6-60C9C8AAC96A</string>
+</dict>
+</plist>

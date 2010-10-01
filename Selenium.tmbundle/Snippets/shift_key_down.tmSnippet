@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.shift_key_down
+$0</string>
+	<key>name</key>
+	<string>shift_key_down</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>skd</string>
+	<key>uuid</key>
+	<string>96F768C0-0F88-4AE8-9A14-8C7A34981F90</string>
+</dict>
+</plist>

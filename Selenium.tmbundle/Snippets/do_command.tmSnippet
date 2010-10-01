@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.do_command(${2:verb}, ${3:args})
+$0</string>
+	<key>name</key>
+	<string>do_command</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>docom</string>
+	<key>uuid</key>
+	<string>9D5DEDC1-D32B-4B69-89C0-E2135F5A4F85</string>
+</dict>
+</plist>

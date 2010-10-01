@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.drag_and_drop(${2:locator}, ${3:coordString})
+$0</string>
+	<key>name</key>
+	<string>drag_and_drop</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>dnd</string>
+	<key>uuid</key>
+	<string>A1D206F9-BCED-47B5-8739-A72B7FF0090C</string>
+</dict>
+</plist>

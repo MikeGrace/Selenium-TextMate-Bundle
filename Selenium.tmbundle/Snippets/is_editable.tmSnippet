@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.is_editable(${2:locator})$0</string>
+	<key>name</key>
+	<string>is_editable</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>ise</string>
+	<key>uuid</key>
+	<string>69DABBC1-BB03-4D30-8849-E93A939F954C</string>
+</dict>
+</plist>

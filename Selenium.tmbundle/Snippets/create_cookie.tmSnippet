@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.create_cookie(${2:nameValuePair}, ${3:optionsString})
+$0</string>
+	<key>name</key>
+	<string>create_cookie</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>cc</string>
+	<key>uuid</key>
+	<string>5FAD7751-989D-4DF3-B55B-26A74683EE38</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_eval(${2:script})
+$0</string>
+	<key>name</key>
+	<string>get_eval</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>geval</string>
+	<key>uuid</key>
+	<string>2D891263-BF84-4EB7-BDE1-4B3E7757129A</string>
+</dict>
+</plist>

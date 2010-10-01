@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.set_cursor_position(${2:locator}, ${3:position})
+$0</string>
+	<key>name</key>
+	<string>set_cursor_position</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>scp</string>
+	<key>uuid</key>
+	<string>0DE74BB0-67F3-4592-A951-17D45457777B</string>
+</dict>
+</plist>

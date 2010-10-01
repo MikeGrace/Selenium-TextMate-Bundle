@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.wait_for_condition(${2:script}, ${3:timeout})
+$0</string>
+	<key>name</key>
+	<string>wait_for_condition</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>wfc</string>
+	<key>uuid</key>
+	<string>3910E4E7-C351-4D31-BD79-7FA72889C9AB</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_all_window_ids
+$0</string>
+	<key>name</key>
+	<string>get_all_window_ids</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>gwi</string>
+	<key>uuid</key>
+	<string>6F7EA3D6-7D91-4440-BE87-F68D266947B9</string>
+</dict>
+</plist>

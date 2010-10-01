@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_cookie
+$0</string>
+	<key>name</key>
+	<string>get_cookie</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>gck</string>
+	<key>uuid</key>
+	<string>B39E0B5C-DEF7-4CC9-83F6-92E0A479A259</string>
+</dict>
+</plist>

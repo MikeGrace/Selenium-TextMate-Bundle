@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.window_maximize(${2:windowName})
+$0</string>
+	<key>name</key>
+	<string>window_maximize</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>wm</string>
+	<key>uuid</key>
+	<string>91D81AE7-0496-40AE-B93F-ADD5E6FE2F3C</string>
+</dict>
+</plist>

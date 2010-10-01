@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_whether_this_frame_match_frame_expression(${2:currentFrameString}, ${3:target})
+$0</string>
+	<key>name</key>
+	<string>get_whether_this_frame_match_frame_expression</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>fmfe</string>
+	<key>uuid</key>
+	<string>213A62DC-07B8-44A6-B7FF-48EE1BAB63D9</string>
+</dict>
+</plist>

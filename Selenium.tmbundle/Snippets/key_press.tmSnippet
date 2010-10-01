@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.key_press(${2:locator}, ${3:keySequence})
+$0</string>
+	<key>name</key>
+	<string>key_press</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>kp</string>
+	<key>uuid</key>
+	<string>00A6B0F0-89F7-46A6-9A9A-7F478C5DFE5B</string>
+</dict>
+</plist>

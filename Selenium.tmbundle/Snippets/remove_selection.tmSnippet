@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.remove_selection(${2:locator}, ${3:optionLocator})
+$0</string>
+	<key>name</key>
+	<string>remove_selection</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>rs</string>
+	<key>uuid</key>
+	<string>95426727-4C5C-471E-8551-D2C67DF9BF0E</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.submit(${2:formLocator})
+$0</string>
+	<key>name</key>
+	<string>submit</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>sf</string>
+	<key>uuid</key>
+	<string>D2BFD733-CA2A-44A8-955F-E2D1632FC1C6</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:target}.get_selected_index(${2:selectLocator})
+$0</string>
+	<key>name</key>
+	<string>get_selected_index</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>gsind</string>
+	<key>uuid</key>
+	<string>E1275251-7C1E-464C-9CE6-032296F4DEB0</string>
+</dict>
+</plist>
