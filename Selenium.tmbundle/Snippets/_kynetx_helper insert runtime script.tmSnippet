@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:page}.wait_for_pop_up(${2:windowID}, ${3:defaultTimeout})
-$0</string>
+	<string>insert_runtime_script(["${1:a999x999}"])</string>
 	<key>name</key>
-	<string>wait_for_pop_up</string>
+	<string>_kynetx_helper insert runtime script</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wait</string>
+	<string>insert</string>
 	<key>uuid</key>
-	<string>ADF121A0-1350-4AA3-8710-3D8CDB8D465F</string>
+	<string>2A1DB0EC-FA16-4CBA-96CA-AA6610037E93</string>
 </dict>
 </plist>

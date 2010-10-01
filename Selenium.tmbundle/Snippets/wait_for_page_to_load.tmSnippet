@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:target}.wait_for_page_to_load(${2:timeout})
-$0</string>
+	<string>${1:page}.wait_for_page_to_load(${2:defaultTimeout})</string>
 	<key>name</key>
 	<string>wait_for_page_to_load</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wfptl</string>
+	<string>wait</string>
 	<key>uuid</key>
 	<string>6EB899A4-D8DB-4A59-82D7-56FB6D62743F</string>
 </dict>

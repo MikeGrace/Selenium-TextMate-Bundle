@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:target}.click(${2:locator})
-$0</string>
+	<string>${1:page}.click("${2:locator}")</string>
 	<key>name</key>
 	<string>click</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>clk</string>
+	<string>click</string>
 	<key>uuid</key>
 	<string>A4528DA6-83C5-4531-B769-BAB42A17D89A</string>
 </dict>

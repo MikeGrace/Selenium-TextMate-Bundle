@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:target}.wait_for_condition(${2:script}, ${3:timeout})
-$0</string>
+	<string>${1:target}.wait_for_condition(${2:script}, ${3:defaultTimeout})</string>
 	<key>name</key>
 	<string>wait_for_condition</string>
 	<key>scope</key>

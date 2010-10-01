@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:page}.wait_for_pop_up(${2:windowID}, ${3:defaultTimeout})
-$0</string>
+	<string>it "${1:should...}" do
+	$2
+end</string>
 	<key>name</key>
-	<string>wait_for_pop_up</string>
+	<string>it block</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wait</string>
+	<string>it</string>
 	<key>uuid</key>
-	<string>ADF121A0-1350-4AA3-8710-3D8CDB8D465F</string>
+	<string>EB964CEF-2ABB-489E-834D-B19A35BD4677</string>
 </dict>
 </plist>
