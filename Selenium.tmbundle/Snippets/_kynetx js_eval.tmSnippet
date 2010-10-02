@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it "${1:should...}" do
-	$0
-end</string>
+	<string>${1:page}.js_eval("window.\$KOBJ$2").to_s.should == "${3:true}"</string>
 	<key>name</key>
-	<string>it block</string>
+	<string>_kynetx js_eval</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>it</string>
+	<string>eval</string>
 	<key>uuid</key>
-	<string>EB964CEF-2ABB-489E-834D-B19A35BD4677</string>
+	<string>6D0716CC-E87D-4BC6-BD01-56C0F02AF8D1</string>
 </dict>
 </plist>

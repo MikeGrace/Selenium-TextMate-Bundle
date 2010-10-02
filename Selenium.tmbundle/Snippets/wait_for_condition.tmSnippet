@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:target}.wait_for_condition(${2:script}, ${3:defaultTimeout})</string>
+	<string>${1:page}.wait_for_condition("${2:window.\$KOBJ$3}", ${4:defaultTimeout})</string>
 	<key>name</key>
 	<string>wait_for_condition</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wfc</string>
+	<string>wait</string>
 	<key>uuid</key>
 	<string>3910E4E7-C351-4D31-BD79-7FA72889C9AB</string>
 </dict>

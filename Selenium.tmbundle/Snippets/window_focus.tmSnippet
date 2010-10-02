@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:target}.window_focus(${2:windowName})
-$0</string>
+	<string>${1:page}.window_focus()</string>
 	<key>name</key>
 	<string>window_focus</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wf</string>
+	<string>window</string>
 	<key>uuid</key>
 	<string>3F978007-94A2-477E-A92B-BEB54A922504</string>
 </dict>
