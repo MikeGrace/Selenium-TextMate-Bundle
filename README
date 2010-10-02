@@ -1,3 +1,6 @@
 I found a Selenium TextMate bundle at http://rubyforge.org/frs/?group_id=2789&release_id=9004 but felt that it could be better.
 
 I'll be updating this periodically as I build Selenium tests and would love any feedback and/or contribution.
+
+NOTE
+Because I am working on this bundle as I am writing selenium tests for Kynetx apps, some of the snippets will be customized to do Kynetx app type stuff. Most of those snippets will be marked with a '_kynetx'
