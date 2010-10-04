@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:page}.click_at("${2:xpath}", "${3:0,0}")</string>
+	<string>${1:page}.open("${2:absolute or relative url}")</string>
 	<key>name</key>
-	<string>click_at</string>
+	<string>open</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>click</string>
+	<string>open</string>
 	<key>uuid</key>
-	<string>818F39A1-8AD8-467E-9B67-77240C1BD081</string>
+	<string>2C9C5E46-5F27-40C9-BE1E-22B69F21F985</string>
 </dict>
 </plist>
