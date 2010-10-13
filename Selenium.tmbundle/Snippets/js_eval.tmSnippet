@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:page}.wait_for_element("${2:selector}", {:timeout_in_seconds =&gt; ${3:defaultTimeout}})</string>
+	<string>${1:page}.js_eval("window.${2:}")</string>
 	<key>name</key>
-	<string>wait_for_element</string>
+	<string>js_eval</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wait</string>
+	<string>eval</string>
 	<key>uuid</key>
-	<string>D0A1DF26-4684-4E9D-BB20-87FECB0D3C95</string>
+	<string>4EAEFE07-1259-44A7-A08D-323A988C75F8</string>
 </dict>
 </plist>

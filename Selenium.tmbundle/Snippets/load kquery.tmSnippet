@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:page}.wait_for_element("${2:selector}", {:timeout_in_seconds =&gt; ${3:defaultTimeout}})</string>
+	<string>insert_runtime_script(["a60x130"])
+page.wait_for_element("//span[@id='kobj-enabled']", defaultTimeout)$0</string>
 	<key>name</key>
-	<string>wait_for_element</string>
+	<string>load kquery</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>wait</string>
+	<string>kquery</string>
 	<key>uuid</key>
-	<string>D0A1DF26-4684-4E9D-BB20-87FECB0D3C95</string>
+	<string>3F381173-398B-4B65-8331-61A6F9E4ACE0</string>
 </dict>
 </plist>
